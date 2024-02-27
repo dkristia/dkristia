@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Dasuki
+- 🤓 I know TypeScript/JavaScript, Python and React
+- 🌱 I’m currently learning C++ and Rust
+- 📫 How to reach me: email me at daniel.i.kristiansson@gmail.com
+- 😄 Pronouns: He/Him
+- 
