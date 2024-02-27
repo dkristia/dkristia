@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dasuki
+- 😄 My pronouns are he/him
+- 🇫🇮 🇸🇪 I'm half-Finnish and half-Swedish
 - 🤓 I know TypeScript/JavaScript, Python and React
 - 🌱 I’m currently learning C++ and Rust
 - 📫 How to reach me: email me at daniel.i.kristiansson@gmail.com
-- 😄 Pronouns: He/Him
-- 
