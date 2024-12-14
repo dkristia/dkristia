@@ -4,4 +4,4 @@
 - 🤓 I know TypeScript, Python & C++
 
 ![Dasuki's Github stats](https://github-readme-stats.vercel.app/api?username=dkristia&show_icons=true&theme=merko&hide_title=true&hide_rank=true&hide_border=true)
-![Dasuki's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&hide_border=true)
+![Dasuki's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkristia&layout=compact&theme=merko&hide_border=true)
